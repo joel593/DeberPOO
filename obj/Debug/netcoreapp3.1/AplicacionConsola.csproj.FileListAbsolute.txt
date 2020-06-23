@@ -1,0 +1,13 @@
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.exe
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.deps.json
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.runtimeconfig.json
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.runtimeconfig.dev.json
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.dll
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\bin\Debug\netcoreapp3.1\AplicacionConsola.pdb
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.csprojAssemblyReference.cache
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.AssemblyInfoInputs.cache
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.AssemblyInfo.cs
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.dll
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.pdb
+C:\Users\droue\source\repos\AplicacionConsola1\AplicacionConsola\obj\Debug\netcoreapp3.1\AplicacionConsola.genruntimeconfig.cache
